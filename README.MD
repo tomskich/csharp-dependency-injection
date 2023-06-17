@@ -29,7 +29,7 @@ A list of C# dependency injection containers and some extensions.
 
 ## Compile time dependency injection
 
-| Project | Stats | Last commit |
+| Project | Stars | Last commit |
 |:--------|:------|:------------|
 | [Jab](https://github.com/pakrym/jab) | ![stars](https://img.shields.io/github/stars/pakrym/jab?logo=github&label=%20&cacheSeconds=604800) | ![last commit](https://img.shields.io/github/last-commit/pakrym/jab?logo=github&label=%20&cacheSeconds=86400) |
 | [Pure.DI](https://github.com/DevTeam/Pure.DI) | ![stars](https://img.shields.io/github/stars/DevTeam/Pure.DI?logo=github&label=%20&cacheSeconds=604800) | ![last commit](https://img.shields.io/github/last-commit/DevTeam/Pure.DI?logo=github&label=%20&cacheSeconds=86400) |
@@ -37,7 +37,7 @@ A list of C# dependency injection containers and some extensions.
 
 ## Other useful projects
 
-| Project | Stats | Last commit |
+| Project | Stars | Last commit |
 |:--------|:------|:------------|
-| [FastGenericNew](https://github.com/Nyrest/FastGenericNew) | ![stars](https://img.shields.io/github/stars/Nyrest/FastGenericNew?logo=github&label=%20&cacheSeconds=604800) | ![last commit](https://img.shields.io/github/last-commit/Nyrest/FastGenericNew?logo=github&label=%20&cacheSeconds=86400) |
 | [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler) | ![stars](https://img.shields.io/github/stars/dadhi/FastExpressionCompiler?logo=github&label=%20&cacheSeconds=604800) | ![last commit](https://img.shields.io/github/last-commit/dadhi/FastExpressionCompiler?logo=github&label=%20&cacheSeconds=86400) |
+| [FastGenericNew](https://github.com/Nyrest/FastGenericNew) | ![stars](https://img.shields.io/github/stars/Nyrest/FastGenericNew?logo=github&label=%20&cacheSeconds=604800) | ![last commit](https://img.shields.io/github/last-commit/Nyrest/FastGenericNew?logo=github&label=%20&cacheSeconds=86400) |
